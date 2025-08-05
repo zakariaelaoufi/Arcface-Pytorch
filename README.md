@@ -83,7 +83,7 @@ od.download('https://www.kaggle.com/datasets/hearfool/vggface2')
    ```python
    path_data = '/content/vggface2'  # Update to your dataset path
    BATCH_SIZE = 128
-   EPOCHS = 4
+   EPOCHS = 60
    learning_rate = 1e-3
    ```
 
@@ -220,13 +220,13 @@ Model checkpoints are saved every 10 epochs and include:
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](https://github.com/zakariaelaoufi/arcface-pytorch/blob/main/LICENSE).
 
 ## Acknowledgments
 
-- VGGFace2 dataset creators
-- ArcFace paper authors
-- PyTorch community
+- [VGGFace2 dataset](https://www.kaggle.com/datasets/hearfool/vggface2)
+- [ArcFace paper authors](https://arxiv.org/abs/1801.07698)
+- (PyTorch)[https://pytorch.org/]
 
 ---
 
