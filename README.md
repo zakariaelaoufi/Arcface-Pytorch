@@ -7,7 +7,7 @@ A PyTorch implementation of a face recognition system using a custom EfficientNe
 This project implements a deep learning model for face recognition that combines:
 - **Custom EfficientNet-inspired backbone**: Lightweight architecture using depthwise separable convolutions
 - **ArcFace loss**: Angular margin loss for improved face recognition performance
-- **VGGFace2 dataset**: Large-scale face recognition dataset with 9,131 identities
+- **VGGFace2 dataset**: Large-scale face recognition dataset with 540 identities (for this vggface2 dataset)
 
 ## Features
 
