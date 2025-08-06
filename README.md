@@ -226,7 +226,7 @@ This project is open source and available under the [MIT License](https://github
 
 - [VGGFace2 dataset](https://www.kaggle.com/datasets/hearfool/vggface2)
 - [ArcFace paper authors](https://arxiv.org/abs/1801.07698)
-- (PyTorch)[https://pytorch.org/]
+- [PyTorch](https://pytorch.org/)
 
 ---
 
